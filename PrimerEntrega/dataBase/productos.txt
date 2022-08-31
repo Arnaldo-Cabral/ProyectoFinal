@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "Wed Aug 31 2022",
+    "nombre": "Calculadora",
+    "descripcion": "Calculadora almacenara",
+    "codigo": 3,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-128.png",
+    "precio": 300,
+    "stock": 7,
+    "id": 1
+  },
+  {
+    "timestamp": "Wed Aug 31 2022",
+    "nombre": "Regla y Escuadra",
+    "descripcion": "regla y escuadra para dibujo",
+    "codigo": 5,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-128.png",
+    "precio": 250,
+    "stock": 15,
+    "id": 2
+  }
+]
